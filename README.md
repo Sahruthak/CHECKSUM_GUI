@@ -3,7 +3,7 @@ The Checksum GUI is a graphical user interface (GUI) tool that assists users in 
 The Checksum GUI simplifies the process of working with checksums by providing an intuitive and user-friendly interface. Here is a possible description of the Checksum GUI's features and functionality:
 
 File Selection: The GUI allows users to select one or multiple files for which they want to generate or verify checksums. This can be done through a file browser or by dragging and dropping files into the GUI.
-Algorithm Selection: Users can choose from a variety of commonly used checksum algorithms, such as MD5, SHA-1, SHA-256, or CRC32. The GUI provides a selection of algorithms to suit different security and compatibility requirements.
+Algorithm Selection: Users can choose from a variety of commonly used checksum algorithms, such as MD5, SHA-1, SHA-256, or CRC32. The GUI provides a selection of algorithms to suit different security and compatibility requirements.sha
 
 Checksum Generation: With a simple click of a button, the GUI calculates the checksum for the selected file(s) using the chosen algorithm. The generated checksum is displayed on the interface, making it easy for users to copy and share if needed.
 
