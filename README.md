@@ -8,7 +8,6 @@ The Checksum GUI simplifies the process of working with checksums by providing a
 
 File Selection: 
 
-
 The GUI allows users to select one or multiple files for which they want to generate or verify checksums. This can be done through a file browser or by dragging and dropping files into the GUI.
 
 Algorithm Selection: 
