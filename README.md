@@ -8,8 +8,6 @@ File Selection:
 The GUI allows users to select one or multiple files for which they want to generate or verify checksums. This can be done through a file browser or by dragging and dropping files into the GUI.
 
 
-
-
 Algorithm Selection: 
 Users can choose from a variety of commonly used checksum algorithms, such as MD5, SHA-1, SHA-256, or CRC32. The GUI provides a  selection of algorithms to suit different security and compatibility requirements.
 
