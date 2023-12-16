@@ -20,19 +20,6 @@ Users can choose from a variety of commonly used checksum algorithms, such as MD
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Checksum Generation: 
 
 With a simple click of a button, the GUI calculates the checksum for the selected file(s) using the chosen algorithm. The generated checksum is displayed on the interface, making it easy for users to copy and share if needed.
