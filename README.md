@@ -23,6 +23,6 @@ Batch Processing:
 The Checksum GUI supports batch processing, enabling users to generate or verify checksums for multiple files at once. This is particularly useful when dealing with a large number of files or when performing routine integrity checks.
 
 User Notifications: 
-
 The GUI provides clear and concise notifications or status messages to keep users informed about the progress and results of checksum generation or verification. This helps users quickly identify any issues or discrepancies.
 Overall, the Checksum GUI simplifies the process of generating and verifying checksums, providing users with a convenient and efficient way to ensure the integrity and authenticity of their files.
+<br>
