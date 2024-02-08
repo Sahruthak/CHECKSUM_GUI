@@ -26,5 +26,4 @@ User Notifications:
 The GUI provides clear and concise notifications or status messages to keep users informed about the progress and results of checksum generation or verification. This helps users quickly identify any issues or discrepancies.
 Overall, the Checksum GUI simplifies the process of generating and verifying checksums, providing users with a convenient and efficient way to ensure the integrity and authenticity of their files.
 
-
 <br>
