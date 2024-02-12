@@ -5,7 +5,8 @@ The Checksum GUI is a graphical user interface (GUI) tool that assists users in 
 <br>
 
 <br>
-The Checksum GUI simplifies the process of working with checksums by providing an intuitive and user-friendly interface. Here is a possible description of the Checksum GUI's features and functionality:
+The Checksum GUI simplifies the process of working with che
+cksums by providing an intuitive and user-friendly interface. Here is a possible description of the Checksum GUI's features and functionality:
 
 File Selection: 
 The GUI allows users to select one or multiple files for which they want to generate or verify checksums. This can be done through a file browser or by dragging and dropping files into the GUI.
