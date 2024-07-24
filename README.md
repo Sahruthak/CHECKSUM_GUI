@@ -10,9 +10,12 @@ cksums by providing an intuitive and user-friendly interface. Here is a possible
 <br><br>
 
 <i> <b> File Selection:</b> </i>
+
 The GUI allows users to select one or multiple files for which they want to generate or verify checksums. This can be done through a file browser or by dragging and dropping files into the GUI.
 <br><br>
+
 <i> <b> Algorithm Selection: </b> </i>
+
 Users can choose from a variety of commonly used checksum algorithms, such as MD5, SHA-1, SHA-256, or CRC32. The GUI provides a  selection of algorithms to suit different security and compatibility requirements.
 <br><br>
 <i> <b> Checksum Generation: </b> </i>
